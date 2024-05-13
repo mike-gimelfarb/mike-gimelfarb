@@ -14,6 +14,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pyrddlgym-project&repo=pyRDDLGym-rl)](https://github.com/pyrddlgym-project/pyRDDLGym-rl)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pyrddlgym-project&repo=pyRDDLGym-prost)](https://github.com/pyrddlgym-project/pyRDDLGym-prost)
 
+## Other
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-gimelfarb&repo=cocoa)](https://github.com/mike-gimelfarb/cocoa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-gimelfarb&repo=numerical-integration)](https://github.com/mike-gimelfarb/numerical-integration)
+
+
 <!--
 **mike-gimelfarb/mike-gimelfarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
