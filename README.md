@@ -16,7 +16,7 @@
 
 ## Other
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-gimelfarb&repo=cocoa)](https://github.com/mike-gimelfarb/cocoa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-gimelfarb&repo=cocoa)](https://github.com/mike-gimelfarb/bboptpy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mike-gimelfarb&repo=numerical-integration)](https://github.com/mike-gimelfarb/numerical-integration)
 
 
